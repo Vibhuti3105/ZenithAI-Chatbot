@@ -10,6 +10,13 @@ Zenith AI Chatbot is a React.js web application that emulates the interactive ch
   <img src="https://github.com/Vibhuti3105/ZenithAI-Chatbot/blob/master/src/assets/output_img2.png?raw=true"/>
 </div>
 
+#Live Demo
+
+You can view the live version of ZenithAI here:
+
+🔗 **[ZenithAI-Chatbot](https://zenith-ai-chatbot.vercel.app/)**
+
+
 # How to use
 
 1.  Clone the repo <code>git clone https://github.com/Vibhuti3105/ZenithAI-Chatbot </code>
