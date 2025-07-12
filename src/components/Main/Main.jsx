@@ -67,7 +67,7 @@ import { Context } from "../../context/Context";
             <>
               <div className="greet">
                 <p>
-                  <span>Hello, Vibhuti</span>
+                  <span>Hello, Vibhuti.</span>
                 </p>
                 <p>How can I help you today?</p>
               </div>
@@ -76,49 +76,49 @@ import { Context } from "../../context/Context";
                   className="card"
                   onClick={() =>
                     handleCardClick(
-                      "Suggest beautiful places to see on upcoming road trip"
+                      "Suggest beautiful places to visit in Himachal Pradesh."
                     )
                   }
                   style={{ cursor: "pointer" }}
                 >
-                  <p>Suggest beautiful places to see on upcoming road trip</p>
+                  <p>Suggest beautiful places to visit in Himachal Pradesh.</p>
                   <img src={assets.compass_icon} alt="CompassIcon" />
                 </div>
                 <div
                   className="card"
                   onClick={() =>
                     handleCardClick(
-                      "Suggest beautiful places to see on upcoming road trip"
+                      "What are the best time management tips for students?"
                     )
                   }
                   style={{ cursor: "pointer" }}
                 >
-                  <p>Suggest beautiful places to see on upcoming road trip</p>
-                  <img src={assets.compass_icon} alt="CompassIcon" />
+                  <p>What are the best time management tips for students?</p>
+                  <img src={assets.bulb_icon} alt="BulbIcon" />
                 </div>
                 <div
                   className="card"
                   onClick={() =>
                     handleCardClick(
-                      "Suggest beautiful places to see on upcoming road trip"
+                      "Create a study plan to learn Python in 4 weeks."
                     )
                   }
                   style={{ cursor: "pointer" }}
                 >
-                  <p>Suggest beautiful places to see on upcoming road trip</p>
-                  <img src={assets.compass_icon} alt="CompassIcon" />
+                  <p>Create a study plan to learn Python in 4 weeks.</p>
+                  <img src={assets.code_icon} alt="CodeIcon" />
                 </div>
                 <div
                   className="card"
                   onClick={() =>
                     handleCardClick(
-                      "Suggest beautiful places to see on upcoming road trip"
+                      "Recommend a 10-minute daily meditation routine."
                     )
                   }
                   style={{ cursor: "pointer" }}
                 >
-                  <p>Suggest beautiful places to see on upcoming road trip</p>
-                  <img src={assets.compass_icon} alt="CompassIcon" />
+                  <p>Recommend a 10-minute daily meditation routine.</p>
+                  <img src={assets.bulb_icon} alt="BulbIcon" />
                 </div>
               </div>
             </>
@@ -170,7 +170,7 @@ import { Context } from "../../context/Context";
               </div>
             </div>
             <p className="bottom-info">
-              G-AI-Chatbot may display inaccurate info, including about people, so
+              ZenithAI may display inaccurate info, including about people, so
               double-check its responses.{" "}
               <a href="https://support.google.com/gemini/answer/13594961?visit_id=638488069169109558-2959892032&p=privacy_notice&rd=1#privacy_notice">
                 Your privacy & Gemini Apps
